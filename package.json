@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
+  "version": "1.12.0",
   "name": "@michaelmure/ipfs-connector",
   "description": "Ipfs download/process manager",
   "main": "index.js",

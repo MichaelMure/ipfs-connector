@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.12.0"></a>
+# [1.12.0](https://github.com/AkashaProject/ipfs-connector/compare/v1.8.2...v1.12.0) (2018-03-09)
+
+
+### Bug Fixes
+
+* **api:** clear previous api instance on start ([48db763](https://github.com/AkashaProject/ipfs-connector/commit/48db763))
+
+
+### Features
+
+* **binary:** add auto upgrade logic ([df92463](https://github.com/AkashaProject/ipfs-connector/commit/df92463))
+* **IpfsBin:** emit download progress ([6e4ad4b](https://github.com/AkashaProject/ipfs-connector/commit/6e4ad4b))
+
+
+
 <a name="1.11.0"></a>
 # [1.11.0](https://github.com/AkashaProject/ipfs-connector/compare/v1.8.2...v1.11.0) (2018-03-09)
 
