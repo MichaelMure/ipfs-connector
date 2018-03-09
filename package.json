@@ -1,6 +1,6 @@
 {
-  "name": "@akashaproject/ipfs-connector",
-  "version": "1.10.19",
+  "version": "1.11.0",
+  "name": "@michaelmure/ipfs-connector",
   "description": "Ipfs download/process manager",
   "main": "index.js",
   "types": "index.d.ts",
@@ -35,7 +35,7 @@
     "@types/bluebird": "3.5.20",
     "@types/node": "9.4.6",
     "bluebird": "3.5.1",
-    "ipfs-api": "18.1.1",
+    "@michaelmure/ipfs-api": "^18.1.2",
     "is-ipfs": "0.3.2"
   },
   "devDependencies": {
