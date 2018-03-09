@@ -4,7 +4,7 @@ import { stat, unlink } from 'fs';
 import * as Promise from 'bluebird';
 import { IpfsBin, version as requiredVersion } from './IpfsBin';
 import IpfsApiHelper from '@akashaproject/ipfs-connector-utils';
-import * as ipfsApi from 'ipfs-api';
+import * as ipfsApi from '@michaelmure/ipfs-api';
 import { EventEmitter } from 'events';
 import { events, options } from './constants';
 import childProcess = require('child_process');
